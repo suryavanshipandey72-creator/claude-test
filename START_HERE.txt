@@ -1,0 +1,14 @@
+DELCO ATTENDANCE - AUTOMATIC APK VERSION
+========================================
+
+Already configured:
+- DELCO Attendance app name
+- com.delco.attendance package
+- Live app URL: https://delco-timekeeper.lovable.app/
+- Internet access
+- Precise/approximate foreground location permissions
+- WebView geolocation permission bridge
+- HTTPS-only loading
+- Automatic GitHub Actions APK build
+
+GitHub Actions builds app-debug.apk and publishes it as artifact DELCO-Attendance-APK.

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DELCO Attendance</string>
+    <string name="precise_location_required">Please allow Precise location for reliable DELCO attendance.</string>
+    <string name="location_denied">Location permission is required to mark attendance.</string>
+    <string name="offline_message">No internet connection. DELCO attendance requires an online connection.</string>
+</resources>
